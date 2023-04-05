@@ -12,8 +12,7 @@ Try to create a Recepie App, Which includes almost all impotant pages like Home 
   <img src="https://user-images.githubusercontent.com/104968699/230139418-c7e6ce28-9818-4198-9c39-fa3583822ae7.png" width="200" height="400" />
   <p align="center">
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/104968699/230139418-c7e6ce28-9818-4198-9c39-fa3583822ae7.png" width="200" height="400" />
-  <img src="https://user-images.githubusercontent.com/104968699/230140175-7d53c757-7174-40d8-a3f2-e440b53d9356.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/104968699/230140175-7d53c757-7174-40d8-a3f2-e440b53d9356.png" width="200" height="400" />
   
 
 
